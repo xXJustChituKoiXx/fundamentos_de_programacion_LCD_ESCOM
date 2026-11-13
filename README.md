@@ -71,4 +71,4 @@ Para compilar enlazando un archivo objeto precompilado (como en `P12`):
 ```bash
 gcc usa_rubik2.c rubik2.o -o rubik
 ./rubik
-```"# fundamentos_de_programacion_LCD_ESCOM" 
+``` 
